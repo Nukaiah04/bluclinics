@@ -1,0 +1,9 @@
+* [33mfb03ccb[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m setup dockerfile and cloudbuild.yaml
+* [33m13422bc[m setup dockerfile and cloudbuild.yaml
+[31m|[m * [33me684b98[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Update Dockerfile
+[31m|[m * [33me574e17[m Update cloudbuild.yml
+[31m|[m[31m/[m  
+* [33m80df793[m setup dockerfile and cloudbuild.yaml
+* [33m8b5d010[m Remove build files and add gitignore
+* [33m6969caa[m Remove build files and add gitignore
+* [33m2cad067[m first commit
