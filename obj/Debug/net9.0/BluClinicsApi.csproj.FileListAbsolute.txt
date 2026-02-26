@@ -172,3 +172,4 @@ c:\Users\bluec\OneDrive\Desktop\MyProjects\BluClinicsApi\obj\Debug\net9.0\refint
 c:\Users\bluec\OneDrive\Desktop\MyProjects\BluClinicsApi\obj\Debug\net9.0\BluClinicsApi.pdb
 c:\Users\bluec\OneDrive\Desktop\MyProjects\BluClinicsApi\obj\Debug\net9.0\BluClinicsApi.genruntimeconfig.cache
 c:\Users\bluec\OneDrive\Desktop\MyProjects\BluClinicsApi\obj\Debug\net9.0\ref\BluClinicsApi.dll
+c:\Users\bluec\OneDrive\Desktop\MyProjects\BluClinicsApi\obj\Debug\net9.0\BluClinicsApi.sourcelink.json
