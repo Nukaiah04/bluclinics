@@ -6,7 +6,7 @@ WORKDIR /src
 COPY . .
 
 # Use a recursive search to find the .csproj file wherever it is
-RUN dotnet publish DemoApp.csproj -c Release -o /app/publish /p:UseAppHost=false
+RUN dotnet publish DemoApp.csproj -c Release -o /app/publish /p:UseAppHost=falsegi
 # Runtime stage
 FROM mcr.microsoft.com/dotnet/aspnet:8.0
 WORKDIR /app
