@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BluClinicsApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb03ccbfecfef16fd8c03edf5b5aa22e44bd6842")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2fecd4be1934d5946978d5f40b09c8a5a05085c6")]
 [assembly: System.Reflection.AssemblyProductAttribute("BluClinicsApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BluClinicsApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
