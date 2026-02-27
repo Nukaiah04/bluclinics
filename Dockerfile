@@ -3,7 +3,7 @@ WORKDIR /src
 COPY . .
  
 # Automatically finds and publishes the first .csproj file
-RUN dotnet publish $(find . -name "*.csproj") -c Release -o /app/publish /p:UseAppHost=false
+RUN dotnet publish $(find . -BluCinicsApi "*.csproj") -c Release -o /app/publish /p:UseAppHost=false
  
 FROM mcr.microsoft.com/dotnet/aspnet:8.0
 WORKDIR /app

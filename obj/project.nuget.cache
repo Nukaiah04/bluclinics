@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2Qg/t8HFC5s=",
+  "dgSpecHash": "OfURQP+EDts=",
   "success": true,
-  "projectFilePath": "C:\\Users\\bluec\\OneDrive\\Desktop\\MyProjects\\BluClinicsApi\\BluClinicsApi.csproj",
+  "projectFilePath": "c:\\Users\\bluec\\OneDrive\\Desktop\\MyProjects\\BluClinicsApi\\BluClinicsApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bluec\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\bluec\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
