@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\bluec\\OneDrive\\Desktop\\MyProjects\\BluClinicsApi\\BluClinicsApi.csproj": {}
+    "C:\\Users\\bluec\\OneDrive\\Desktop\\MyProjects\\BluClinicsApi\\BluClinicsApi.csproj": {}
   },
   "projects": {
-    "c:\\Users\\bluec\\OneDrive\\Desktop\\MyProjects\\BluClinicsApi\\BluClinicsApi.csproj": {
+    "C:\\Users\\bluec\\OneDrive\\Desktop\\MyProjects\\BluClinicsApi\\BluClinicsApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\bluec\\OneDrive\\Desktop\\MyProjects\\BluClinicsApi\\BluClinicsApi.csproj",
+        "projectUniqueName": "C:\\Users\\bluec\\OneDrive\\Desktop\\MyProjects\\BluClinicsApi\\BluClinicsApi.csproj",
         "projectName": "BluClinicsApi",
-        "projectPath": "c:\\Users\\bluec\\OneDrive\\Desktop\\MyProjects\\BluClinicsApi\\BluClinicsApi.csproj",
+        "projectPath": "C:\\Users\\bluec\\OneDrive\\Desktop\\MyProjects\\BluClinicsApi\\BluClinicsApi.csproj",
         "packagesPath": "C:\\Users\\bluec\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\bluec\\OneDrive\\Desktop\\MyProjects\\BluClinicsApi\\obj\\",
+        "outputPath": "C:\\Users\\bluec\\OneDrive\\Desktop\\MyProjects\\BluClinicsApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages",
