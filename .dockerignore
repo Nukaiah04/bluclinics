@@ -1,0 +1,23 @@
+# Build folders
+bin/
+obj/
+
+# Git
+.git/
+.gitignore
+
+# IDE files
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Logs
+*.log
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Docker related
+docker-compose.yml
