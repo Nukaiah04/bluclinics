@@ -48,4 +48,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: yourdockerhubusername/bluclinicsapi:latest
+        tags: nukaiah04/bluclinicsapi:latest
